@@ -1,0 +1,265 @@
+ini_set('display_errors',1);
+error_reporting(E_ALL);
+
+conflic khi build: esc -> :wq
+
+sudo sh build_closure.sh /v3/pc/usi.js SIMPLE /v3/production/usi.js 1
+sudo sh build_ngoisao_v2.sh utility/renderDetailBasic.js (build ngôi sao)
+sudo sh build_grep_v2.sh /blocks/folder/1001005.js,/blocks/folder/1004678.js (vne)
+sh build_grep_v2.sh /blocks/detail/1006344.js --build-direct
+sh build_closure_enhanced.sh /redesign/helper/mgeneral_personalize_v2.full.js SIMPLE /redesign/helper/mgeneral_personalize_v2.js
+sh build_closure_enhanced.sh /redesign/helper/mgeneral_personalize_v2.full.js SIMPLE /redesign/helper/mgeneral_personalize_v2.js
+
+https://onlinephp.io/ (test php)
+
+284 defined thêm s
+
+https://docs.google.com/spreadsheets/d/1IFZerV6ySr5P0SsDRVMf6yXymytBWMispi65ASxqxSg/edit#gid=478442857
+
+https://docs.google.com/spreadsheets/d/1TuginUt7aJZlGoXGlp5yQ-1EXbws-5Gy7qde32pLfmI/edit#gid=1519819823
+
+https://demo-ns.ngoisao.net/gia-dinh/thuy-diem-dua-luong-the-thanh-20-trieu-dong-tieu-vat-moi-thang-3833173.html
+
+chay job
+APPLICATION_ENV=production ZONE_ENV=hn /build/phpV3/bin/php -c /build/phpV3/etc/php.ini /data/www/public_redesign/ngoisao.net/server/Job/sendmail_random_user.php
+
+APPLICATION_ENV=production ZONE_ENV=hn /build/phpV3/bin/php -c /build/phpV3/etc/php.ini /data/www/public_redesign/kidlab.vnexpress.net/server/Job/insert_kidlab.php
+APPLICATION_ENV=production ZONE_ENV=hn /build/phpV3/bin/php -c /build/phpV3/etc/php.ini /data/www/public_redesign/kidlab.vnexpress.net/server/Job/update_status_payment_kidlab.php
+APPLICATION_ENV=production ZONE_ENV=hn /build/phpV3/bin/php -c /build/phpV3/etc/php.ini /data/www/public_redesign/kidlab.vnexpress.net/server/Job/inserlogtransaction_kidlab.php
+APPLICATION_ENV=production ZONE_ENV=hn /build/phpV3/bin/php -c /build/phpV3/etc/php.ini /data/www/public_redesign/kidlab.vnexpress.net/server/Job/insert_view_video_user_kidlab.php
+APPLICATION_ENV=production ZONE_ENV=hn /build/phpV3/bin/php -c /build/phpV3/etc/php.ini /data/www/public_redesign/kidlab.vnexpress.net/server/Job/send_email_kidlab.php
+APPLICATION_ENV=production ZONE_ENV=hn /build/phpV3/bin/php -c /build/phpV3/etc/php.ini /data/www/public_redesign/kidlab.vnexpress.net/server/Job/insert_contract.php
+APPLICATION_ENV=production ZONE_ENV=hn /build/phpV7/bin/php -c /build/phpV7/etc/php.ini /data/www/public_html/truongnoitru.fpt.com.vn/vendor/Server/Job/crawl_sheet.php -v
+APPLICATION_ENV=production ZONE_ENV=hn /build/php/bin/php -c /build/php/etc/php.ini /data/www/public_html/cloud_ngoisao.vnexpress.net/server/Job/frontend.php
+
+sudo sh build_closure.sh /v3/pc/usi.js SIMPLE /v3/production/usi.js 1
+ban cloud
+APPLICATION_ENV=production ZONE_ENV=hn /build/php/bin/php -c /build/php/etc/php.ini /data/www/public_html/cloud_vnexpress.net/server/Job/crawl_sheet.php (180.148.136.204-205, 111.65.243.76-77, vne(111.65.243.100, 180.148.136.228))
+sudo /bin/bash /data/www/public_html/cloud_vnexpress.net/server/Job/Common/add_delete_article.sh restart hcm (chay tren server)
+
+//link event
+https://editor.vnexpress.net/vnexpress/cm/event/index
+https://editor.vnexpress.net/vnexpress/cm/post/list/event/131
+https://staging-editorv2.vnexpress.net/ngoisao/star/index/list/event_id/90 (nscn)
+https://editor.vnexpress.net/vnexpress/cm/user-event/listorder/event/181/date_type/period/fromdate/01-06-2022/todate/01-06-2022
+https://tableconvert.com/excel-to-json
+
+//job dev
+
+APPLICATION_ENV=development ZONE_ENV=hn /build/php-v737/bin/php -c /build/php-v737/etc/php.ini /data/www/public_html/hunglt17/hunglt17.vnexpress.net/server/Job/backend.php
+
+sudo sh job_birthday_production.sh restart
+
+sudo crontab -e
+
+
+sudo crontab -e
+
+// search 
+grep -r "3983448"
+ps -ef|grep thethao
+
+timf job ddang chayj: ps -ef |grep thethao
+skill job: sudo kill id
+
+sudo vim public/index.php // mo file
+//Crontab
+
+Bu?c 1:
+1. sudo crontab -e
+2. /kinhdoanh
+3. i --> #
+4. esc
+5. :x
+Bu?c 2: Kill job sv cu
+Bu?c 3: d?t Crontab trên sv m?i
+
+i - insert
+
+Esc: thoat
+
+:wq - ghi và thoat
+
+t.h.a.n.h.hung89sv@gmail.com (tk chua dang ky goi xem video)
+thanh.hung89sv@gmail.com(tk con 1 tuan nua la het han)
+thanh.hung.89sv@gmail.com(tk moi)
+
+restart job: cd /data/www/public_redesign/ngoisao.net/server/Job/
+sudo sh restart_job.sh
+
+
+https://internal.fptonline.net/absent#
+
+https://devops.fptonline.net/login?next=/
+
+SELECT *, FROM_UNIXTIME(update_time, '%d-%m-%Y %H:%i:%s') FROM `kidlap_video_logs` WHERE user_id=0 ORDER BY update_time DESC
+
+http://dbqc.vnexpress.net/index.php
+add hosts: 180.148.138.225 dbqc.vnexpress.net
+devteam_qc / devteam_qc@123
+180.148.138.225 dbqc.vnexpress.net
+
+https://demo-kidlab.vnexpress.net/buy-kid-lab?transaction_id=&response_code=0&order_id=951&card_type=&checksum=11f00d37f63178f5ff1f8f311053bfce
+
+telnet 180.148.142.57 6406
+Trying 180.148.142.57...
+Connected to 180.148.142.57.
+Escape character is '^]'.
+zrevrange ngoisao.folder_liston_new:1002913 0 4
+
+let countContent = (410 - firstArticle.lead.length);
+let wordSplit = firstArticle.content.lastIndexOf(" ", countContent); 
+let content = firstArticle.content.substr(0, wordSplit) + '...';
+
+build usi : sudo sh build_closure.sh /v3/pc/usi.js SIMPLE /v3/production/usi.js 1
+	    sudo sh build_closure.sh /v3/pc/usi.js SIMPLE /v3/production/usi.js 1
+sh build_closure_enhanced.sh /redesign/helper/mgeneral_personalize_v2.full.js SIMPLE /redesign/helper/mgeneral_personalize_v2.js
+
+https://editor.vnexpress.net/vnexpress/cm/event/index
+https://editor.vnexpress.net/vnexpress/cm/post/list/event/154
+https://demo.vnexpress.net/khoa-hoc/ai4vn-2022/dang-ky-tham-du-gala
+
+
+
+ let itvCheckSwap = setInterval(() => {
+                let domSwap = document.querySelector('[data-swap="4"]');
+                if (domSwap) {
+                    clearInterval(itvCheckSwap);
+                    let banner = `<article class="item-news item-news-common off-thumb">
+                                    <a href="/the-thao/world-cup-2022" title="World Cup 2022" data-itm-source="#vn_source=Home&vn_campaign=Banner-WorldCup2022&vn_medium=Item-0&vn_term=Desktop">
+                                        <img alt="World Cup 2022" src="${img_url_vne}/banner/wc-2022/Banner-wc-pc.png">
+                                    </a>
+                                </article>`;
+                    domSwap.insertAdjacentHTML("beforebegin", banner);
+                }
+            }, 50);
+            setTimeout(() => {
+                clearInterval(itvCheckSwap);
+            }, 3000);
+
+
+
+<?php
+if($this->intCateIdPolyAds == 1002565){
+	echo $this->render('/block/thethao/left_3photo_carousel.phtml');
+	?>
+	<script type="text/javascript">
+	var n_appendbox = 0;
+	var interval_appendbox = setInterval(function () {
+		if (document.querySelectorAll('[data-swap]').length || n_appendbox >= 5) {
+			clearInterval(interval_appendbox);
+            try {
+                document.querySelector('#list-stream-data > article:nth-child(3)').insertAdjacentHTML('beforebegin', '<div data-component-type="aff_ltd_bxh"></div>');
+                if ('undefined' != typeof CmtWidget && 'undefined' != typeof CmtWidget.mix) {
+                    CmtWidget.mix();
+                }
+            } catch (e) {
+                //to do something
+            }
+		}
+		n_appendbox++;
+	}, 1000);
+	</script>
+	<?php
+}
+?>
+
+// trang home
+balanceCol();
+                let c = setInterval(_ => {
+                    balanceCol();
+                }, 500);
+                setTimeout(_ => {
+                    clearInterval(c);
+                }, 6000);
+				let iCheckWidgetDT = setInterval(() => {
+                    let checkDomAppendWidgetDT = document.querySelector('.col-left.col-small [data-swap="4"]');
+                    if (checkDomAppendWidgetDT != null) {
+                        clearInterval(iCheckWidgetDT);
+						let _banner = `<article class="item-news item-news-common off-thumb">
+											<a data-itm-source="#vn_source=Home&vn_campaign=Banner-TraCuuDiemThiTHPT_2023&vn_medium=Item-ChiTiet&vn_term=Desktop" href="https://diemthi.vnexpress.net" title="Tra c?u di?m thi THPT">
+												<img alt="Tra c?u di?m thi THPT" src="${img_url}/banner/diemthi_home_pc_2023.jpg">
+											</a>
+										</article><!--<div id="tracuudiemthi" data-component-type="widget_tracuu_diemthi"></div>-->`; 
+                        checkDomAppendWidgetDT.insertAdjacentHTML("beforebegin", _banner);
+						if(typeof CmtWidget != 'undefined')
+						{
+							importScript(CmtWidget.serverJS + '/v3/helper/interactions/tracuutuyensinh/widget_tracuudiemthi.js', function(){
+								if(typeof TraCuuDiemThiDaiHoc != 'undefined' && typeof TraCuuDiemThiDaiHoc.init == 'function'){
+									TraCuuDiemThiDaiHoc.init();
+								}
+							});
+						}
+                    }
+                }, 100);
+                setTimeout(() => {
+                    clearInterval(iCheckWidgetDT);
+                }, 5000);
+//end trang home
+// check jquery mobile
+<script>
+	var itvCheckJquery = setInterval(function(){
+		if (typeof window.jQuery != 'undefined') {
+			clearInterval(itvCheckJquery);
+			if ($(".btn-action-dhd").length > 0) {
+				$(".btn-action-dhd").click(function(){
+					$(this).closest('.header-box-dhd').siblings('.list-vk-dhd').slideToggle();
+					$(this).toggleClass('active');
+				});
+			}
+		}
+	}, 100);
+	setTimeout(function(){
+		clearInterval(itvCheckJquery);
+	}, 5000);
+</script>
+
+http://ngoisao-vn-hn-fpt-rabbitmq.ngoisao-pro.svc.cluster.local:15672/#/queues //ngoisao
+http://hn-fpt.vne-vn-rabbitmq.vne-pro.svc.cluster.local:15673/   //vne
+https://pam.fptonline.net/PasswordVault/v10/Accounts
+lenh nano:
+mo file: nano file
+luu file : ctrl + o
+tim kiem: ctrl + w
+thoat : ctrl + x
+muon vao link co path: bash (ls, cd....)
+thoat tro ve ban dau: exit
+
+BaohiemdudungController.php
+// tech awards
+vong so loai general.js (round2022 = 1, views gd2)
+vong chung ket : general2.js (round2022 = 2 views gd3)
+
+https://vnexpress.net/interactive/2023/danh-sach-bi-thu-tinh-thanh-4175213
+---
+
+job trên 53
+exec bash
+sudo crontab -e
+
+idc
+
+========================
+api3
+server beta 132.2
+sudo /usr/local/nvm/versions/node/v16.14.2/bin/node /usr/local/nvm/versions/node/v16.14.2/lib/node_modules/pm2/bin/pm2 stop  API3_Cache 
+sudo /usr/local/nvm/versions/node/v16.14.2/bin/node /usr/local/nvm/versions/node/v16.14.2/lib/node_modules/pm2/bin/pm2 stop  API3_Index
+sudo /usr/local/nvm/versions/node/v16.14.2/bin/node /data/www/public_html/cloud_api3.vnexpress.net/app.js
+sudo /build/nvm/versions/node/v16.20.2/bin/node /data/www/public_html/cloudv3_api3.vnexpress.net/app.js
+
+
+     /data/www/public_html/cloud_api3.vnexpress.net/node_modules/pm2/bin/pm2 stop API3_Cache
+381  /data/www/public_html/cloud_api3.vnexpress.net/node_modules/pm2/bin/pm2 stop API3_App
+382  /data/www/public_html/cloud_api3.vnexpress.net/node_modules/pm2/bin/pm2 stop API3_Gateway
+384  /data/www/public_html/cloud_api3.vnexpress.net/node_modules/pm2/bin/pm2 stop API
+
+https://beta.vnexpress.net/microservice/lazy-gopykientao/category_id/1001009/limit/10/keyword/hoa%20c%E1%BB%8F%20may
+https://staging-editorv2.vnexpress.net/vnexpress/monitor/static
+
+diagram.drawio (v? bi?u d?)
+network ? nginx ? redis ? nginx ? php (luong cache)
+
+in may cty
+https://fo-it.fptonline.net/RDWeb/Pages/en-US/Print/default.aspx?ReturnUrl=%2fRDWeb%2fPages%2fen-US%2fPrint%2fdefault.aspx
+// trang tinh
+https://github.com/anhhai2810/html-form-to-google-sheet?tab=readme-ov-file
